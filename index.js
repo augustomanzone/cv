@@ -16,7 +16,7 @@ $(document).ready(function(){
 
 
 var typed = new Typed(".typing",{
-    strings: ['Liquidador de siniestros', 'Perito accidentologo', 'Lic. en accidentologia y prenvencion vial', 'Estudiante de Desarrollador fullstack'],
+    strings: ['Liquidador de siniestros', 'Perito accidentologo', 'Lic. en accidentologia y prenvencion vial', 'Estudiante de Desarrollador Fullstack'],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
