@@ -86,7 +86,7 @@ html{
 
 .home{
     display: flex;
-    background-image:url(/Fotos/1\ \(3\).png);
+    background-image:url(Fotos/1\ \(3\).png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh ;
